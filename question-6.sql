@@ -1,0 +1,1 @@
+select substr(email, instr(email, '@') + 1) as Domain from persons where city = 'Seattle';

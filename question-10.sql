@@ -1,0 +1,1 @@
+insert into persons ( first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone) values ('Caleb', 'Lykken' , 'caleb@squidgame.com', 'Male', 'Rev', 13, '1358008 Street', 'Seattle', 'Michigan',98195, '425-550-2244');
